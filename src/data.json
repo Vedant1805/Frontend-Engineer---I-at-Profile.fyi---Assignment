@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 2149,
+        "description": "High-quality wireless earbuds.",
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Bluetooth Speaker",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 8239,
+        "description": "Portable Bluetooth speaker.",
+        "category": "Electronics"
+    },
+    {
+        "id": 3,
+        "name": "Smartwatch",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 1299,
+        "description": "Smartwatch with fitness tracking.",
+        "category": "Wearables"
+    },
+    {
+        "id": 4,
+        "name": "Laptop Backpack",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 52139,
+        "description": "Durable laptop backpack.",
+        "category": "Accessories"
+    },
+    {
+        "id": 5,
+        "name": "Electric Kettle",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 24329,
+        "description": "Fast-boiling electric kettle.",
+        "category": "Home Appliances"
+    },
+    {
+        "id": 6,
+        "name": "Portable Charger",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 225,
+        "description": "Compact portable charger.",
+        "category": "Electronics"
+    },
+    {
+        "id": 7,
+        "name": "4K Monitor",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 34879,
+        "description": "High-resolution 4K monitor.",
+        "category": "Electronics"
+    },
+    {
+        "id": 8,
+        "name": "Gaming Mouse",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 5954,
+        "description": "Precision gaming mouse.",
+        "category": "Accessories"
+    },
+    {
+        "id": 9,
+        "name": "Wireless Keyboard",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 3597,
+        "description": "Ergonomic wireless keyboard.",
+        "category": "Accessories"
+    },
+    {
+        "id": 10,
+        "name": "Smart Thermostat",
+        "image": "https://www.walkaroo.in/cdn/shop/products/01_785d5491-86a1-4114-8d8d-ea5ee5539b20.jpg?v=1708409513",
+        "price": 154619,
+        "description": "Smart home thermostat.",
+        "category": "Home Appliances"
+    }
+]
